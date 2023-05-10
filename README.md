@@ -1,2 +1,2 @@
 # RO
-Todas las prácticas de RO
+Prácticas RO
